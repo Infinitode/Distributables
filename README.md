@@ -10,6 +10,38 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 - Created a simple user interface to handle processes
 - Implemented asynchronous generation
 
+### Minimum Requirements
+
+**Storage:**
+- **Minimum:** 1 GB of available disk space
+- **Recommended:** 2 GB of available disk space
+
+**RAM:**
+- **Minimum:** 2 GB
+- **Recommended:** 4 GB
+
+**Processor:**
+- **Minimum:** Dual-core 1.5 GHz
+- **Recommended:** Quad-core 2.0 GHz or higher
+
+**GPU:**
+- **Minimum:** Integrated graphics with OpenGL 2.0 support
+- **Recommended:** Dedicated GPU with at least 1 GB VRAM
+
+#### Operating System Specifics
+**macOS:**
+- **Minimum:** macOS 10.13 (High Sierra)
+- **Recommended:** macOS 11.0 (Big Sur) or later
+
+**Linux:**
+- **Minimum:** Ubuntu 18.04 LTS or equivalent
+- **Recommended:** Ubuntu 20.04 LTS or equivalent
+
+**Windows:**
+- **Minimum:** Windows 10 (64-bit)
+- **Recommended:** Windows 11 (64-bit)
+> Synthdat might work on Windows 7, 8, and Vista, but it is not recommended
+
 #### Platforms
 | Platform | Available For Platform | Direct App | Setup
 |----------------------|---|---|---|
@@ -26,6 +58,38 @@ Dungen is a name generator, that is specifically designed to generate names base
 - Optimized images
 - Disabled devTools, as it is no longer needed
 - Added the ability to generate up to 1000 names in one go
+
+### Minimum Requirements
+
+**Storage:**
+- **Minimum:** 0.5 GB of available disk space
+- **Recommended:** 1 GB of available disk space
+
+**RAM:**
+- **Minimum:** 2 GB
+- **Recommended:** 4 GB
+
+**Processor:**
+- **Minimum:** Dual-core 1.5 GHz
+- **Recommended:** Quad-core 2.0 GHz or higher
+
+**GPU:**
+- **Minimum:** Integrated graphics with OpenGL 2.0 support
+- **Recommended:** Dedicated GPU with at least 0.5 GB VRAM
+
+#### Operating System Specifics
+**macOS:**
+- **Minimum:** macOS 10.13 (High Sierra)
+- **Recommended:** macOS 11.0 (Big Sur) or later
+
+**Linux:**
+- **Minimum:** Ubuntu 18.04 LTS or equivalent
+- **Recommended:** Ubuntu 20.04 LTS or equivalent
+
+**Windows:**
+- **Minimum:** Windows 10 (64-bit)
+- **Recommended:** Windows 11 (64-bit)
+> Dungen does not officialy support Windows 7, 8, and Vista. It is not recommended to run Dungen on these systems.
 
 #### Platforms
 | Platform | Available For Platform | Direct App | Setup
