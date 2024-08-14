@@ -13,8 +13,8 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 ### Minimum Requirements
 
 **Storage:**
-- **Minimum:** 1 GB of available disk space
-- **Recommended:** 2 GB of available disk space
+- **Minimum:** 0.5 GB of available disk space
+- **Recommended:** 1 GB of available disk space
 
 **RAM:**
 - **Minimum:** 2 GB
