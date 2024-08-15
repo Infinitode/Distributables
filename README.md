@@ -94,7 +94,7 @@ Dungen is a name generator, that is specifically designed to generate names base
 #### Platforms
 | Platform | Available For Platform | Direct App | Setup
 |----------------------|---|---|---|
-| macOS | :ballot_box_with_check: | :ballot_box_with_check: | :x: |
+| macOS | :ballot_box_with_check: | :x: | :ballot_box_with_check: |
 | Windows | :ballot_box_with_check: | :x: | :ballot_box_with_check: |
 | Linux | :ballot_box_with_check: | :ballot_box_with_check: | :x: |
 | Android | :x: | :x: | :x: |
