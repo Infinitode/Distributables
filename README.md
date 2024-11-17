@@ -40,6 +40,8 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 **Windows:**
 - **Minimum:** Windows 10 (64-bit)
 - **Recommended:** Windows 11 (64-bit)
+
+> [!WARNING]
 > Synthdat might work on Windows 7, 8, and Vista, but it is not recommended
 
 #### Platforms
@@ -54,9 +56,13 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 ### Dungen
 Dungen is a name generator, that is specifically designed to generate names based on a few select games, from Terraria, to Elden Ring. It also has a few customization options to tune the name generator to create different names.
 
+### Changelog (1.1.0)
+- Brand new names to generate, with 5+ new games to choose from
+- Improved name generation logic by adding certain checks.
+
 #### Changelog (1.0.0)
 - Optimized images
-- Disabled devTools, as it is no longer needed
+- Disabled `devTools`, as it is no longer needed
 - Added the ability to generate up to 1000 names in one go
 
 ### Minimum Requirements
@@ -89,6 +95,8 @@ Dungen is a name generator, that is specifically designed to generate names base
 **Windows:**
 - **Minimum:** Windows 10 (64-bit)
 - **Recommended:** Windows 11 (64-bit)
+
+> [!WARNING]
 > Dungen does not officialy support Windows 7, 8, and Vista. It is not recommended to run Dungen on these systems.
 
 #### Platforms
