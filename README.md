@@ -159,7 +159,7 @@ Dungen AI is a game name generator using AI models to generate names based on ga
 - **Recommended:** Windows 11 (64-bit)
 
 > [!WARNING]
-> Dungen AI does not officially support platform versions lower than the versions specified. We don't recommend running Dungen AI on these systems.
+> Dungen AI does not officially support lower platform versions than the versions specified. We don't recommend running Dungen AI on these systems.
 
 #### Platforms
 | Platform | Available For Platform | Direct App | Setup
@@ -170,3 +170,37 @@ Dungen AI is a game name generator using AI models to generate names based on ga
 | Android | :x: | :x: | :x: |
 | iOS | :x: | :x: | :x: |
 
+---
+
+### Dungen for Android
+Dungen for Android is a game name generator that generates names based on games and is available only for Android.
+
+### Changelog (1.0)
+- Added all generators from Dungen 1.2.0 to Dungen for Android.
+
+### Minimum Requirements
+
+**Storage:**
+- **Minimum:** 50 MB of available storage space
+- **Recommended:** 100 MB of available storage space
+
+**RAM:**
+- **Minimum:** 1 GB
+- **Recommended:** 2 GB
+
+#### Operating System Specifics
+**Android:**
+- **Minimum:** SDK Version 21 (Android 5.0)
+- **Target:** SDK Version 34 (Android 14)
+
+> [!WARNING]
+> Dungen for Android does not officially support lower platform versions than those specified. We don't recommend running Dungen on these versions.
+
+#### Platforms
+| Platform | Available For Platform | Direct App | Setup
+|----------------------|---|---|---|
+| macOS | :x: | :x: | :x: |
+| Windows | :x: | :x: | :x: |
+| Linux | :x: | :x: | :x: |
+| Android | :ballot_box_with_check: | :x: | :ballot_box_with_check: (APK file) |
+| iOS | :x: | :x: | :x: |
