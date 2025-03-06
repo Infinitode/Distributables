@@ -1,5 +1,24 @@
 # Distributables
-This is where we keep our distributables for most of our projects. You can view and download release binaries from this repository, and install them on your system.
+This repository contains release binaries for most of our projects. You can download and install them on your system.
+
+> [!IMPORTANT]
+> All of our software is clean and virus-free. You may scan any release with VirusTotal or other antivirus software before installation.
+> 
+> **For macOS Users:**  
+> Our apps are not signed or notarized, so macOS may display a warning stating that the app is "damaged and can’t be opened." To bypass this:
+> 
+> Right-click the app, select "Open", then click "Open" again.
+> 
+> Alternatively, you can remove macOS’s security flag via Terminal:
+> ```
+> sudo xattr -rd com.apple.quarantine /Applications/YourApp.app
+> ```
+> Most users will find the first method sufficient.
+>
+> ***⚠️ Do not download our apps from untrusted sources. Always use official links.***
+
+> [!NOTE]
+> We plan to implement code-signing in future releases for improved security and trust.
 
 ## Available redistributables
 ### Synthdat
