@@ -1,4 +1,5 @@
 # Distributables
+
 This repository contains release binaries for most of our projects. You can download and install them on your system.
 
 > [!IMPORTANT]
@@ -20,16 +21,38 @@ This repository contains release binaries for most of our projects. You can down
 > [!NOTE]
 > We plan to implement code-signing in future releases for improved security and trust.
 
-## Available redistributables
+## Quick Links to Apps
+
+*   [Synthdat](#synthdat)
+*   [Dungen](#dungen)
+*   [Dungen AI](#dungen-ai)
+*   [Dungen for Android](#dungen-for-android)
+
+---
+
+## Available Apps
+
 ### Synthdat
+<a name="synthdat"></a>
 Synthdat is a dataset generation app, that generates new datasets from existing datasets using fine-grained AI models. Our team trained and tested these models to ensure that the generated synthetic data matched the characteristics of the original data.
 
-#### Changelog (1.0.0)
-- Added more AI generators to Synthdat.
-- Created a simple user interface to handle processes.
-- Implemented asynchronous generation.
+#### Changelog
 
-### Minimum Requirements
+##### Version 1.1.0 (New)
+*   New model dataset generator.
+*   Totally new and improved UI.
+*   Stability improvements.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
+
+##### Version 1.0.0
+*   Added more AI generators to Synthdat.
+*   Created a simple user interface to handle processes.
+*   Implemented asynchronous generation.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
+
+#### Minimum Requirements
 
 **Storage:**
 - **Minimum:** 0.5 GB of available disk space
@@ -75,22 +98,31 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 ---
 
 ### Dungen
+<a name="dungen"></a>
 Dungen is a name generator, designed to generate names based on a few select games, from Terraria to Elden Ring. It also has a few customization options to tune the name generator to create different names.
 
-#### Changelog (1.2.0)
-- Can now generate up to 10000 names in a single click.
-- 9 new name generators.
+#### Changelog
 
-#### Changelog (1.1.0)
-- Brand new names to generate, with 5+ new games available.
-- Improved name generation logic by adding certain checks.
+##### Version 1.2.0
+*   Can now generate up to 10000 names in a single click.
+*   9 new name generators.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
 
-#### Changelog (1.0.0)
-- Optimized images.
-- Disabled `devTools`, as it is no longer needed.
-- Added the ability to generate up to 1000 names in one go.
+##### Version 1.1.0
+*   Brand new names to generate, with 5+ new games available.
+*   Improved name generation logic by adding certain checks.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
 
-### Minimum Requirements
+##### Version 1.0.0
+*   Optimized images.
+*   Disabled `devTools`, as it is no longer needed.
+*   Added the ability to generate up to 1000 names in one go.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
+
+#### Minimum Requirements
 
 **Storage:**
 - **Minimum:** 0.5 GB of available disk space
@@ -136,22 +168,31 @@ Dungen is a name generator, designed to generate names based on a few select gam
 ---
 
 ### Dungen AI
+<a name="dungen-ai"></a>
 Dungen AI is a game name generator using AI models to generate names based on games. You can run the AI models locally and when offline.
 
-### Changelog (1.2.0) Public Beta
-- 9 new AI models to use
-- Improved UI
-- Minor performance improvements
+#### Changelog
 
-### Changelog (1.1.0) Public Beta
-- 11 new AI models to choose from
-- Improved compatibility and performance due to removal of outdated package dependencies
+##### Version 1.2.0 Public Beta
+*   9 new AI models to use
+*   Improved UI
+*   Minor performance improvements
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
 
-### Changelog (1.0.0) Public Beta
-- All current AI models from `Dungen's Huggingface space` were added to the app.
-- Initial release of `Dungen AI 1.0.0`.
+##### Version 1.1.0 Public Beta
+*   11 new AI models to choose from
+*   Improved compatibility and performance due to removal of outdated package dependencies
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
 
-### Minimum Requirements
+##### Version 1.0.0 Public Beta
+*   All current AI models from `Dungen's Huggingface space` were added to the app.
+*   Initial release of `Dungen AI 1.0.0`.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
+
+#### Minimum Requirements
 
 **Storage:**
 - **Minimum:** 1 GB of available disk space
@@ -197,12 +238,17 @@ Dungen AI is a game name generator using AI models to generate names based on ga
 ---
 
 ### Dungen for Android
+<a name="dungen-for-android"></a>
 Dungen for Android is a game name generator that generates names based on games and is available only for Android.
 
-### Changelog (1.0)
-- Added all generators from Dungen 1.2.0 to Dungen for Android.
+#### Changelog
 
-### Minimum Requirements
+##### Version 1.0
+*   Added all generators from Dungen 1.2.0 to Dungen for Android.
+*   **Screenshots:**
+    *   <!-- Placeholder for Screenshot 1 (e.g., ![Screenshot 1 Alt Text](path/to/screenshot1.png)) -->
+
+#### Minimum Requirements
 
 **Storage:**
 - **Minimum:** 50 MB of available storage space
