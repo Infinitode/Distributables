@@ -106,6 +106,9 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 Dungen is a name generator, designed to generate names based on a few select games, from Terraria to Elden Ring. It also has a few customization options to tune the name generator to create different names.
 
 #### Changelog
+##### Version 1.3.0
+*   6 new name generators.
+*   Legibility improvements in UI.
 
 ##### Version 1.2.0
 *   Can now generate up to 10000 names in a single click.
