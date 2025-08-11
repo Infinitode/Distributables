@@ -178,6 +178,11 @@ Dungen AI is a game name generator using AI models to generate names based on ga
 
 #### Changelog
 
+##### Version 1.3.0 Production
+*   6 new AI models to use
+*   Improved generation logic
+*   Dark UI
+
 ##### Version 1.2.0 Public Beta
 *   9 new AI models to use
 *   Improved UI
