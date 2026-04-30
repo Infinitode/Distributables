@@ -105,6 +105,9 @@ Synthdat is a dataset generation app, that generates new datasets from existing 
 <a name="dungen"></a>
 Dungen is a name generator, designed to generate names based on a few select games, from Terraria to Elden Ring. It also has a few customization options to tune the name generator to create different names.
 
+> [!IMPORTANT]
+> Dungen is now deprecated and will no longer receive updates. However, the existing distributables will continue to function. You can still access the new web-based versions of Dungen on our website, which enables us to roll out updates smoothly and efficiently to all of our users.
+
 #### Changelog
 ##### Version 1.3.0
 *   6 new name generators.
@@ -175,6 +178,9 @@ Dungen is a name generator, designed to generate names based on a few select gam
 ### Dungen AI
 <a name="dungen-ai"></a>
 Dungen AI is a game name generator using AI models to generate names based on games. You can run the AI models locally and when offline.
+
+> [!IMPORTANT]
+> Dungen AI is now deprecated and will no longer receive updates. However, the existing software will still function properly. You can access the new web-based versions of Dungen AI on our website. This transition allows us to deliver updates more smoothly and efficiently to all our users.
 
 #### Changelog
 
@@ -248,6 +254,9 @@ Dungen AI is a game name generator using AI models to generate names based on ga
 ### Dungen for Android
 <a name="dungen-for-android"></a>
 Dungen for Android is a game name generator that generates names based on games and is available only for Android.
+
+> [!IMPORTANT]
+> The Dungen app for Android is now deprecated and will no longer receive updates. However, the existing distributables will still function. You can access the new web-based versions of Dungen on our website, which are compatible with mobile devices across all platforms.
 
 #### Changelog
 
