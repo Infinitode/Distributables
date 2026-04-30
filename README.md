@@ -34,7 +34,10 @@ This repository contains release binaries for most of our projects. You can down
 
 ### Synthdat
 <a name="synthdat"></a>
-Synthdat is a dataset generation app, that generates new datasets from existing datasets using fine-grained AI models. Our team trained and tested these models to ensure that the generated synthetic data matched the characteristics of the original data.
+Synthdat is a dataset generation app that generates new datasets from existing datasets using fine-grained AI models. Our team trained and tested these models to ensure that the generated synthetic data matched the characteristics of the original data.
+
+> [!IMPORTANT]
+> Synthdat is now officially deprecated. After a long period of inactivity, we're retiring Synthdat. We will have more data generation projects in the future that will eventually replace it. As always, the distributables will remain available, and the app pages will continue to function, allowing you to download and use the software. However, please note that it will no longer receive updates or maintenance.
 
 #### Changelog
 
